@@ -35,4 +35,12 @@ GitHub
 2. Select the one you need among the repositories.
 3. Press **Fork button** to initiate the git forking process.
 4. The repository will be forked to your account instantly. This can be seen by your username after forking the repository.
-5. If you want to store the repo on your local machine, on the right side of the screen, below the **Contributors** tab, you’ll see a green button that says **Clone or Download**. Go ahead and click that.
+5. If you want to store the repo on your local machine, on the right side of the screen, below the **Contributors** tab, you’ll see a green button that says **Clone or Download**. Go ahead and click that.  
+
+# How to invite collaborators to your repository  
+1. Under your repository name, click **Settings**.
+2. In the left sidebar, click **Manage access**.
+3. Click **Invite a collaborator**.
+4. In the search field, start typing the name of person you want to invite, then click a name in the list of matches.
+5. Click Add NAME to REPOSITORY.
+6. The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
