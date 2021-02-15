@@ -1,52 +1,30 @@
-- [Markdown](#markdown)
-- [Headers](#headers)
-  - [ex. This is a second-level header](#ex-this-is-a-second-level-header)
-    - [ex. a third-level header](#ex-a-third-level-header)
-      - [ex. a fourth-level header](#ex-a-fourth-level-header)
-        - [ex. a fifth-level header](#ex-a-fifth-level-header)
-          - [ex. sixth-level](#ex-sixth-level)
-- [Paragraphs](#paragraphs)
-- [Line Breaks](#line-breaks)
-- [Emphasis:](#emphasis)
-  - [Bold](#bold)
-  - [Italic](#italic)
-- [Blockquotes](#blockquotes)
-- [Lists:](#lists)
-  - [Numbered Lists](#numbered-lists)
-  - [Bullet Lists](#bullet-lists)
-- [Images](#images)
-- [Links](#links)
-  - [Linking Images](#linking-images)
-  - [Linking URL](#linking-url)
-  - [Linking to another file](#linking-to-another-file)
-- [Tables](#tables)
-- [Alignment](#alignment)
-- [Code](#code)
+![Markdown](./images/markdown.png)
+
 # Markdown  
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document.
 
 # Headers  
-To create a header, preface the phrase with a hash mark (#). You place the same number of hash marks as the size of the header you want. For example, for a header one, you'd use one hash mark , while for a header three, you'd use three . 
+To create a header, preface the phrase with a hash mark (#). You place the same number of hash marks as the size of the header you want. For example, for a header one, you'd use one hash mark, while for a header three, you'd use three. 
 
-## ex. This is a second-level header
-### ex. a third-level header
-#### ex. a fourth-level header
-##### ex. a fifth-level header
-###### ex. sixth-level 
+## ex. 2 Customer
+### ex. 3 Project manager
+#### ex. 4 Product owner
+##### ex. 5 Developer
+###### ex. 6 Technical writer
 
 # Paragraphs  
 To create paragraphs, use a blank line to separate one or more lines of text. You
 should not indent paragraphs with spaces or tabs.  
-ex. Technical writing is not just about understanding technical information and recording it in a document.  
+**ex. Technical writing is not just about understanding technical information and recording it in a document.**  
 
-Technical writing takes high-level information and processes it into digestible content for a specific audience. 
+**Technical writing takes high-level information and processes it into digestible content for a specific audience.**
 
 # Line Breaks  
 To create a line break , end a line with two or more spaces, and then type
 return.  
-ex. A technical writer is a professional writer that communications complex information.  
-So what exactly does a technical writer do?  
-They create technical documentation that includes things like instruction manuals, user manuals, journal articles, quick reference guides, and white papers.
+**ex. A technical writer is a professional writer that communications complex information.**  
+*So what exactly does a technical writer do?*  
+**They create technical documentation that includes things like instruction manuals, user manuals, journal articles, quick reference guides, and white papers.**
 
 # Emphasis:  
 ## Bold  
@@ -80,16 +58,15 @@ one.
 7. Camtasia
 8. MemoQ
 9. Oxygen
-10. GitHub 
+10. GitHub Desktop 
 
 ## Bullet Lists  
-To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of
-line items.  
-* An item
-* Another item
-    * A sub-item
-    * Another sub-item
-* Yet one more item
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.  
+* Technical communication
+* Web technologies
+    * HTML
+    * CSS
+* Technical texts
 
 # Images  
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title after the URL in the parentheses.  
@@ -131,3 +108,5 @@ ex. x=7;
     y=17;
     z=x+y;
 ```
+# Cheatsheet
+![Cheatsheet](./images/cheatsheet.pdf)
