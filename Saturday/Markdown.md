@@ -1,5 +1,5 @@
 
-![Markdown](./images/markdown.png)
+![Markdown](./images/MD/markdown.png)
 
 - [Markdown](#markdown)
 - [Headers](#headers)
@@ -104,7 +104,7 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 ## Linking Images  
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.  
 
-![Technical writer](./images/writer.jpg)
+![Technical writer](./images/MD/writer.jpg)
 
 ## Linking URL
 To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses  (www.github.com).
@@ -136,4 +136,4 @@ ex. x=7;
     z=x+y;
 ```
 # Cheatsheet
-![Cheatsheet](./images/cheatsheet.pdf)
+![Cheatsheet](./images/MD/cheatsheet.jpg)
