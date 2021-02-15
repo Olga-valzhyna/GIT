@@ -1,4 +1,31 @@
+
 ![Markdown](./images/markdown.png)
+
+- [Markdown](#markdown)
+- [Headers](#headers)
+  - [ex. 2 Customer](#ex-2-customer)
+    - [ex. 3 Project manager](#ex-3-project-manager)
+      - [ex. 4 Product owner](#ex-4-product-owner)
+        - [ex. 5 Developer](#ex-5-developer)
+          - [ex. 6 Technical writer](#ex-6-technical-writer)
+- [Paragraphs](#paragraphs)
+- [Line Breaks](#line-breaks)
+- [Emphasis:](#emphasis)
+  - [Bold](#bold)
+  - [Italic](#italic)
+- [Blockquotes](#blockquotes)
+- [Lists:](#lists)
+  - [Numbered Lists](#numbered-lists)
+  - [Bullet Lists](#bullet-lists)
+- [Images](#images)
+- [Links](#links)
+  - [Linking Images](#linking-images)
+  - [Linking URL](#linking-url)
+  - [Linking to another file](#linking-to-another-file)
+- [Tables](#tables)
+- [Alignment](#alignment)
+- [Code](#code)
+- [Cheatsheet](#cheatsheet)
 
 # Markdown  
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document.
