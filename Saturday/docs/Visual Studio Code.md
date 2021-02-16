@@ -1,3 +1,9 @@
+---
+layout: default
+title: Visual studio code
+nav_order: 1
+---
+
 - [Visual Studio Code](#visual-studio-code)
 - [How to Install Visual Studio Code on Windows](#how-to-install-visual-studio-code-on-windows)
 - [Essential components of Visual Studio Code](#essential-components-of-visual-studio-code)

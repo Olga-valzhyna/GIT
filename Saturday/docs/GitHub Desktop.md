@@ -1,3 +1,8 @@
+---
+layout: default
+title: GitHub Desktop
+nav_order: 4
+---
 GitHub desktop
 ===============
 GitHub Desktop is an application that enables you to interact with GitHub using a GUI instead of the command line or a web browser. You can use GitHub Desktop to complete most Git commands from your desktop with visual confirmation of changes. You can push to, pull from, and clone remote repositories with GitHub Desktop, and use collaborative tools such as attributing commits and creating pull requests.  

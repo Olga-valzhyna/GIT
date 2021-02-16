@@ -1,3 +1,8 @@
+---
+layout: default
+title: GitHub
+nav_order: 3
+---
 - [GitHub](#github)
 - [How to create an account on GitHub](#how-to-create-an-account-on-github)
 - [How to create a repository](#how-to-create-a-repository)
