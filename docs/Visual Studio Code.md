@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visual studio code
-nav_order: 1
+nav_order: 2
 ---
 
 - [Visual Studio Code](#visual-studio-code)
@@ -26,8 +26,8 @@ Visual Studio Code has some very unique features:
 
 # How to Install Visual Studio Code on Windows  
 1. Download the setup file from the official website:  [Visual Studio Code](https://code.visualstudio.com).
-![Step0](./images/VSC/step00.jpg)
-2. After opening the website, click on the **Download for Windows** button. This will download the VS code Setup Wizard on the system as an EXE file.
+![Step0](assets/images/step1.jpg)
+1. After opening the website, click on the **Download for Windows** button. This will download the VS code Setup Wizard on the system as an EXE file.
 ![Step1](./images/VSC/step01.png)
 3. Once it is downloaded, run the installer *(VSCodeUserSetup-{version}.exe)*. 
 4. At first, it recommends that we need to close all other applications before the VS code installation starts. It is not mandatory.
