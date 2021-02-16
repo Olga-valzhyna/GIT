@@ -6,8 +6,6 @@ description: "Driver's Handbook for the Morris Mini Minor"
 permalink: /
 ---
 
-![Morris Badge](/assets/images/Morris_badge.png)
+
 
 # Introduction
-
-{% include plik.svg %}
