@@ -22,27 +22,27 @@ GitHub
 ![Step](./assets/images/GH9.jpg)
 1. Click the green **Create an account** button.
 2. Complete the **CAPTCHA** puzzle. The instructions vary by puzzle, so just follow the on-screen instructions to confirm that you are a human.
-![Step](./images/GH/GH10.jpg)
-5. Click the **Choose** button for your desired plan. Once you select a plan, GitHub will send an email confirmation message to the address you entered.
-6. Click the **Verify email** address button in the message from GitHub. This confirms your email address and returns you to the sign-up process.
-7. Review your plan selection and click **Continue**. You can also choose whether you want to receive updates from GitHub via email by checking or unchecking the "Send me updates" box.
-8. Select your preferences and click **Submit**. GitHub displays a quick survey that can help you tailor your experience to match what you're looking for. Once you make your selection, you'll be taken to a screen that allows you to set up your first repository.
+![Step](./assets/images/GH10.jpg)
+1. Click the **Choose** button for your desired plan. Once you select a plan, GitHub will send an email confirmation message to the address you entered.
+2. Click the **Verify email** address button in the message from GitHub. This confirms your email address and returns you to the sign-up process.
+3. Review your plan selection and click **Continue**. You can also choose whether you want to receive updates from GitHub via email by checking or unchecking the "Send me updates" box.
+4. Select your preferences and click **Submit**. GitHub displays a quick survey that can help you tailor your experience to match what you're looking for. Once you make your selection, you'll be taken to a screen that allows you to set up your first repository.
 
 # How to create a repository  
 1. Go to the GitHub website, look in the upper right corner, and click the + sign and then click “New repository.”
-![Step](./images/GH/GH8.jpg)
-2. Name the repository, and add a quick description.
-3. Decide whether you want this to be a public or a private repository.
-4. Click **Initialize this repository with a README** if you want to include the README file. 
-5. Click **Create repository**  
+![Step](./assets/images/GH8.jpg)
+1. Name the repository, and add a quick description.
+2. Decide whether you want this to be a public or a private repository.
+3. Click **Initialize this repository with a README** if you want to include the README file. 
+4. Click **Create repository**  
 
 # How to make changes to your README file  
 1. Go to your repository.
 2. Click the name of the file to bring up that file (for example, click README.md to go to the readme file).
 3. Click the pencil icon in the upper right corner of the file and make some changes.
-![Step](./images/GH/GH6.jpg)
-4. Write a short message in the box that describes the changes you made (and an extended description if you want).
-5. Click the **Commit changes** button.
+![Step](./assets/images/GH6.jpg)
+1. Write a short message in the box that describes the changes you made (and an extended description if you want).
+2. Click the **Commit changes** button.
 ![Step](./images/GH/GH7.jpg)
 
 # How to fork a repository  

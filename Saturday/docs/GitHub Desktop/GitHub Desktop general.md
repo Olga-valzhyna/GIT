@@ -1,7 +1,8 @@
 ---
 layout: default
-title: GitHub Desktop
-nav_order: 4
+title: GitHub Desktop general
+parent: GitHub Desktop
+nav_order: 1
 ---
 GitHub desktop
 ===============
