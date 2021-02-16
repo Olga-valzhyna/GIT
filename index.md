@@ -10,4 +10,4 @@ permalink: /
 
 # Introduction
 
-![SVG](/assets/images/4.svg)
+{% include 4.svg %}
