@@ -9,5 +9,4 @@ permalink: /
 
 
 # Introduction
-
 {% include 4.svg %}
