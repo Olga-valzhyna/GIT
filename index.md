@@ -9,3 +9,5 @@ permalink: /
 
 
 # Introduction
+
+![SVG](/assets/images/4.svg)
