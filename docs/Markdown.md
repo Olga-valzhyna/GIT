@@ -3,7 +3,7 @@ layout: default
 title: Markdown
 nav_order: 3
 ---
-![Markdown](/assets/images/M1.png)
+![Markdown](/assets/images/markdown.png)
 
 - [Markdown](#markdown)
 - [Headers](#headers)
