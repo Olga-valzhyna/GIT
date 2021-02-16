@@ -3,9 +3,7 @@ title: Jekyll
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: Olga-valzhyna/just-the-docs
 
-color_scheme: dark
-
-# logo: "/assets/images/4.svg"
+color_scheme: light
 
 aux_links:
   "Source repository on GitHub":

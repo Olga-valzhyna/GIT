@@ -6,7 +6,5 @@ description: "Driver's Handbook for the Morris Mini Minor"
 permalink: /
 ---
 
-
-
 # Introduction
 {% include 4.svg %}
